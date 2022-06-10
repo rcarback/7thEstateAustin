@@ -1,0 +1,2002 @@
+---
+records:
+  - position: 0
+    summand: 381
+  - position: 1
+    summand: 596
+  - position: 2
+    summand: 134
+  - position: 3
+    summand: 315
+  - position: 4
+    summand: 649
+  - position: 5
+    summand: 580
+  - position: 6
+    summand: 980
+  - position: 7
+    summand: 992
+  - position: 8
+    summand: 598
+  - position: 9
+    summand: 796
+  - position: 10
+    summand: 959
+  - position: 11
+    summand: 937
+  - position: 12
+    summand: 342
+  - position: 13
+    summand: 434
+  - position: 14
+    summand: 708
+  - position: 15
+    summand: 736
+  - position: 16
+    summand: 457
+  - position: 17
+    summand: 168
+  - position: 18
+    summand: 95
+  - position: 19
+    summand: 867
+  - position: 20
+    summand: 314
+  - position: 21
+    summand: 161
+  - position: 22
+    summand: 428
+  - position: 23
+    summand: 204
+  - position: 24
+    summand: 484
+  - position: 25
+    summand: 400
+  - position: 26
+    summand: 879
+  - position: 27
+    summand: 30
+  - position: 28
+    summand: 785
+  - position: 29
+    summand: 80
+  - position: 30
+    summand: 287
+  - position: 31
+    summand: 649
+  - position: 32
+    summand: 829
+  - position: 33
+    summand: 286
+  - position: 34
+    summand: 851
+  - position: 35
+    summand: 259
+  - position: 36
+    summand: 831
+  - position: 37
+    summand: 529
+  - position: 38
+    summand: 942
+  - position: 39
+    summand: 478
+  - position: 40
+    summand: 606
+  - position: 41
+    summand: 778
+  - position: 42
+    summand: 675
+  - position: 43
+    summand: 877
+  - position: 44
+    summand: 997
+  - position: 45
+    summand: 307
+  - position: 46
+    summand: 568
+  - position: 47
+    summand: 85
+  - position: 48
+    summand: 462
+  - position: 49
+    summand: 726
+  - position: 50
+    summand: 575
+  - position: 51
+    summand: 479
+  - position: 52
+    summand: 307
+  - position: 53
+    summand: 348
+  - position: 54
+    summand: 467
+  - position: 55
+    summand: 286
+  - position: 56
+    summand: 422
+  - position: 57
+    summand: 809
+  - position: 58
+    summand: 334
+  - position: 59
+    summand: 290
+  - position: 60
+    summand: 560
+  - position: 61
+    summand: 501
+  - position: 62
+    summand: 378
+  - position: 63
+    summand: 221
+  - position: 64
+    summand: 801
+  - position: 65
+    summand: 712
+  - position: 66
+    summand: 705
+  - position: 67
+    summand: 297
+  - position: 68
+    summand: 397
+  - position: 69
+    summand: 540
+  - position: 70
+    summand: 505
+  - position: 71
+    summand: 189
+  - position: 72
+    summand: 990
+  - position: 73
+    summand: 846
+  - position: 74
+    summand: 361
+  - position: 75
+    summand: 76
+  - position: 76
+    summand: 786
+  - position: 77
+    summand: 962
+  - position: 78
+    summand: 87
+  - position: 79
+    summand: 9
+  - position: 80
+    summand: 539
+  - position: 81
+    summand: 482
+  - position: 82
+    summand: 628
+  - position: 83
+    summand: 841
+  - position: 84
+    summand: 867
+  - position: 85
+    summand: 539
+  - position: 86
+    summand: 574
+  - position: 87
+    summand: 137
+  - position: 88
+    summand: 528
+  - position: 89
+    summand: 208
+  - position: 90
+    summand: 444
+  - position: 91
+    summand: 640
+  - position: 92
+    summand: 508
+  - position: 93
+    summand: 46
+  - position: 94
+    summand: 718
+  - position: 95
+    summand: 516
+  - position: 96
+    summand: 282
+  - position: 97
+    summand: 286
+  - position: 98
+    summand: 453
+  - position: 99
+    summand: 389
+  - position: 100
+    summand: 420
+  - position: 101
+    summand: 663
+  - position: 102
+    summand: 397
+  - position: 103
+    summand: 491
+  - position: 104
+    summand: 648
+  - position: 105
+    summand: 185
+  - position: 106
+    summand: 277
+  - position: 107
+    summand: 930
+  - position: 108
+    summand: 967
+  - position: 109
+    summand: 98
+  - position: 110
+    summand: 17
+  - position: 111
+    summand: 406
+  - position: 112
+    summand: 868
+  - position: 113
+    summand: 945
+  - position: 114
+    summand: 959
+  - position: 115
+    summand: 540
+  - position: 116
+    summand: 370
+  - position: 117
+    summand: 770
+  - position: 118
+    summand: 491
+  - position: 119
+    summand: 286
+  - position: 120
+    summand: 938
+  - position: 121
+    summand: 319
+  - position: 122
+    summand: 860
+  - position: 123
+    summand: 843
+  - position: 124
+    summand: 137
+  - position: 125
+    summand: 723
+  - position: 126
+    summand: 335
+  - position: 127
+    summand: 5
+  - position: 128
+    summand: 935
+  - position: 129
+    summand: 578
+  - position: 130
+    summand: 716
+  - position: 131
+    summand: 519
+  - position: 132
+    summand: 515
+  - position: 133
+    summand: 430
+  - position: 134
+    summand: 960
+  - position: 135
+    summand: 438
+  - position: 136
+    summand: 689
+  - position: 137
+    summand: 187
+  - position: 138
+    summand: 965
+  - position: 139
+    summand: 938
+  - position: 140
+    summand: 256
+  - position: 141
+    summand: 905
+  - position: 142
+    summand: 159
+  - position: 143
+    summand: 956
+  - position: 144
+    summand: 359
+  - position: 145
+    summand: 852
+  - position: 146
+    summand: 870
+  - position: 147
+    summand: 112
+  - position: 148
+    summand: 870
+  - position: 149
+    summand: 56
+  - position: 150
+    summand: 900
+  - position: 151
+    summand: 728
+  - position: 152
+    summand: 289
+  - position: 153
+    summand: 188
+  - position: 154
+    summand: 706
+  - position: 155
+    summand: 791
+  - position: 156
+    summand: 669
+  - position: 157
+    summand: 527
+  - position: 158
+    summand: 257
+  - position: 159
+    summand: 787
+  - position: 160
+    summand: 208
+  - position: 161
+    summand: 116
+  - position: 162
+    summand: 49
+  - position: 163
+    summand: 549
+  - position: 164
+    summand: 248
+  - position: 165
+    summand: 461
+  - position: 166
+    summand: 822
+  - position: 167
+    summand: 922
+  - position: 168
+    summand: 639
+  - position: 169
+    summand: 376
+  - position: 170
+    summand: 166
+  - position: 171
+    summand: 928
+  - position: 172
+    summand: 166
+  - position: 173
+    summand: 782
+  - position: 174
+    summand: 743
+  - position: 175
+    summand: 537
+  - position: 176
+    summand: 940
+  - position: 177
+    summand: 571
+  - position: 178
+    summand: 542
+  - position: 179
+    summand: 123
+  - position: 180
+    summand: 239
+  - position: 181
+    summand: 481
+  - position: 182
+    summand: 698
+  - position: 183
+    summand: 125
+  - position: 184
+    summand: 844
+  - position: 185
+    summand: 443
+  - position: 186
+    summand: 867
+  - position: 187
+    summand: 911
+  - position: 188
+    summand: 873
+  - position: 189
+    summand: 986
+  - position: 190
+    summand: 293
+  - position: 191
+    summand: 821
+  - position: 192
+    summand: 475
+  - position: 193
+    summand: 569
+  - position: 194
+    summand: 934
+  - position: 195
+    summand: 197
+  - position: 196
+    summand: 152
+  - position: 197
+    summand: 441
+  - position: 198
+    summand: 306
+  - position: 199
+    summand: 672
+  - position: 200
+    summand: 790
+  - position: 201
+    summand: 358
+  - position: 202
+    summand: 290
+  - position: 203
+    summand: 352
+  - position: 204
+    summand: 761
+  - position: 205
+    summand: 118
+  - position: 206
+    summand: 177
+  - position: 207
+    summand: 210
+  - position: 208
+    summand: 870
+  - position: 209
+    summand: 142
+  - position: 210
+    summand: 142
+  - position: 211
+    summand: 966
+  - position: 212
+    summand: 343
+  - position: 213
+    summand: 16
+  - position: 214
+    summand: 437
+  - position: 215
+    summand: 344
+  - position: 216
+    summand: 673
+  - position: 217
+    summand: 977
+  - position: 218
+    summand: 252
+  - position: 219
+    summand: 106
+  - position: 220
+    summand: 664
+  - position: 221
+    summand: 134
+  - position: 222
+    summand: 227
+  - position: 223
+    summand: 18
+  - position: 224
+    summand: 366
+  - position: 225
+    summand: 783
+  - position: 226
+    summand: 313
+  - position: 227
+    summand: 529
+  - position: 228
+    summand: 193
+  - position: 229
+    summand: 942
+  - position: 230
+    summand: 196
+  - position: 231
+    summand: 106
+  - position: 232
+    summand: 246
+  - position: 233
+    summand: 235
+  - position: 234
+    summand: 150
+  - position: 235
+    summand: 208
+  - position: 236
+    summand: 655
+  - position: 237
+    summand: 575
+  - position: 238
+    summand: 345
+  - position: 239
+    summand: 394
+  - position: 240
+    summand: 699
+  - position: 241
+    summand: 553
+  - position: 242
+    summand: 542
+  - position: 243
+    summand: 172
+  - position: 244
+    summand: 642
+  - position: 245
+    summand: 263
+  - position: 246
+    summand: 900
+  - position: 247
+    summand: 577
+  - position: 248
+    summand: 46
+  - position: 249
+    summand: 966
+  - position: 250
+    summand: 92
+  - position: 251
+    summand: 161
+  - position: 252
+    summand: 142
+  - position: 253
+    summand: 203
+  - position: 254
+    summand: 408
+  - position: 255
+    summand: 152
+  - position: 256
+    summand: 335
+  - position: 257
+    summand: 797
+  - position: 258
+    summand: 429
+  - position: 259
+    summand: 418
+  - position: 260
+    summand: 819
+  - position: 261
+    summand: 792
+  - position: 262
+    summand: 68
+  - position: 263
+    summand: 341
+  - position: 264
+    summand: 256
+  - position: 265
+    summand: 371
+  - position: 266
+    summand: 863
+  - position: 267
+    summand: 847
+  - position: 268
+    summand: 305
+  - position: 269
+    summand: 615
+  - position: 270
+    summand: 321
+  - position: 271
+    summand: 489
+  - position: 272
+    summand: 468
+  - position: 273
+    summand: 125
+  - position: 274
+    summand: 934
+  - position: 275
+    summand: 720
+  - position: 276
+    summand: 909
+  - position: 277
+    summand: 589
+  - position: 278
+    summand: 481
+  - position: 279
+    summand: 664
+  - position: 280
+    summand: 475
+  - position: 281
+    summand: 766
+  - position: 282
+    summand: 642
+  - position: 283
+    summand: 347
+  - position: 284
+    summand: 792
+  - position: 285
+    summand: 158
+  - position: 286
+    summand: 463
+  - position: 287
+    summand: 114
+  - position: 288
+    summand: 380
+  - position: 289
+    summand: 41
+  - position: 290
+    summand: 233
+  - position: 291
+    summand: 222
+  - position: 292
+    summand: 927
+  - position: 293
+    summand: 777
+  - position: 294
+    summand: 293
+  - position: 295
+    summand: 829
+  - position: 296
+    summand: 702
+  - position: 297
+    summand: 946
+  - position: 298
+    summand: 656
+  - position: 299
+    summand: 619
+  - position: 300
+    summand: 459
+  - position: 301
+    summand: 402
+  - position: 302
+    summand: 567
+  - position: 303
+    summand: 368
+  - position: 304
+    summand: 709
+  - position: 305
+    summand: 353
+  - position: 306
+    summand: 770
+  - position: 307
+    summand: 8
+  - position: 308
+    summand: 95
+  - position: 309
+    summand: 661
+  - position: 310
+    summand: 516
+  - position: 311
+    summand: 773
+  - position: 312
+    summand: 946
+  - position: 313
+    summand: 136
+  - position: 314
+    summand: 204
+  - position: 315
+    summand: 786
+  - position: 316
+    summand: 94
+  - position: 317
+    summand: 51
+  - position: 318
+    summand: 322
+  - position: 319
+    summand: 103
+  - position: 320
+    summand: 682
+  - position: 321
+    summand: 364
+  - position: 322
+    summand: 737
+  - position: 323
+    summand: 900
+  - position: 324
+    summand: 412
+  - position: 325
+    summand: 644
+  - position: 326
+    summand: 733
+  - position: 327
+    summand: 94
+  - position: 328
+    summand: 18
+  - position: 329
+    summand: 295
+  - position: 330
+    summand: 14
+  - position: 331
+    summand: 736
+  - position: 332
+    summand: 339
+  - position: 333
+    summand: 764
+  - position: 334
+    summand: 164
+  - position: 335
+    summand: 528
+  - position: 336
+    summand: 220
+  - position: 337
+    summand: 791
+  - position: 338
+    summand: 407
+  - position: 339
+    summand: 54
+  - position: 340
+    summand: 81
+  - position: 341
+    summand: 930
+  - position: 342
+    summand: 613
+  - position: 343
+    summand: 226
+  - position: 344
+    summand: 215
+  - position: 345
+    summand: 319
+  - position: 346
+    summand: 305
+  - position: 347
+    summand: 99
+  - position: 348
+    summand: 487
+  - position: 349
+    summand: 128
+  - position: 350
+    summand: 516
+  - position: 351
+    summand: 818
+  - position: 352
+    summand: 17
+  - position: 353
+    summand: 893
+  - position: 354
+    summand: 573
+  - position: 355
+    summand: 369
+  - position: 356
+    summand: 817
+  - position: 357
+    summand: 953
+  - position: 358
+    summand: 219
+  - position: 359
+    summand: 296
+  - position: 360
+    summand: 421
+  - position: 361
+    summand: 259
+  - position: 362
+    summand: 917
+  - position: 363
+    summand: 866
+  - position: 364
+    summand: 136
+  - position: 365
+    summand: 665
+  - position: 366
+    summand: 455
+  - position: 367
+    summand: 608
+  - position: 368
+    summand: 879
+  - position: 369
+    summand: 518
+  - position: 370
+    summand: 687
+  - position: 371
+    summand: 72
+  - position: 372
+    summand: 895
+  - position: 373
+    summand: 888
+  - position: 374
+    summand: 184
+  - position: 375
+    summand: 896
+  - position: 376
+    summand: 564
+  - position: 377
+    summand: 917
+  - position: 378
+    summand: 215
+  - position: 379
+    summand: 821
+  - position: 380
+    summand: 694
+  - position: 381
+    summand: 822
+  - position: 382
+    summand: 554
+  - position: 383
+    summand: 624
+  - position: 384
+    summand: 263
+  - position: 385
+    summand: 614
+  - position: 386
+    summand: 345
+  - position: 387
+    summand: 544
+  - position: 388
+    summand: 573
+  - position: 389
+    summand: 278
+  - position: 390
+    summand: 968
+  - position: 391
+    summand: 122
+  - position: 392
+    summand: 716
+  - position: 393
+    summand: 297
+  - position: 394
+    summand: 366
+  - position: 395
+    summand: 976
+  - position: 396
+    summand: 601
+  - position: 397
+    summand: 498
+  - position: 398
+    summand: 836
+  - position: 399
+    summand: 565
+  - position: 400
+    summand: 396
+  - position: 401
+    summand: 150
+  - position: 402
+    summand: 667
+  - position: 403
+    summand: 566
+  - position: 404
+    summand: 480
+  - position: 405
+    summand: 71
+  - position: 406
+    summand: 609
+  - position: 407
+    summand: 807
+  - position: 408
+    summand: 954
+  - position: 409
+    summand: 96
+  - position: 410
+    summand: 330
+  - position: 411
+    summand: 689
+  - position: 412
+    summand: 491
+  - position: 413
+    summand: 208
+  - position: 414
+    summand: 987
+  - position: 415
+    summand: 87
+  - position: 416
+    summand: 254
+  - position: 417
+    summand: 856
+  - position: 418
+    summand: 901
+  - position: 419
+    summand: 964
+  - position: 420
+    summand: 376
+  - position: 421
+    summand: 620
+  - position: 422
+    summand: 326
+  - position: 423
+    summand: 404
+  - position: 424
+    summand: 328
+  - position: 425
+    summand: 762
+  - position: 426
+    summand: 147
+  - position: 427
+    summand: 545
+  - position: 428
+    summand: 967
+  - position: 429
+    summand: 8
+  - position: 430
+    summand: 858
+  - position: 431
+    summand: 231
+  - position: 432
+    summand: 745
+  - position: 433
+    summand: 791
+  - position: 434
+    summand: 359
+  - position: 435
+    summand: 253
+  - position: 436
+    summand: 713
+  - position: 437
+    summand: 345
+  - position: 438
+    summand: 708
+  - position: 439
+    summand: 113
+  - position: 440
+    summand: 672
+  - position: 441
+    summand: 726
+  - position: 442
+    summand: 573
+  - position: 443
+    summand: 280
+  - position: 444
+    summand: 10
+  - position: 445
+    summand: 975
+  - position: 446
+    summand: 866
+  - position: 447
+    summand: 816
+  - position: 448
+    summand: 880
+  - position: 449
+    summand: 767
+  - position: 450
+    summand: 502
+  - position: 451
+    summand: 346
+  - position: 452
+    summand: 359
+  - position: 453
+    summand: 957
+  - position: 454
+    summand: 15
+  - position: 455
+    summand: 788
+  - position: 456
+    summand: 941
+  - position: 457
+    summand: 92
+  - position: 458
+    summand: 385
+  - position: 459
+    summand: 168
+  - position: 460
+    summand: 40
+  - position: 461
+    summand: 909
+  - position: 462
+    summand: 366
+  - position: 463
+    summand: 584
+  - position: 464
+    summand: 17
+  - position: 465
+    summand: 473
+  - position: 466
+    summand: 923
+  - position: 467
+    summand: 538
+  - position: 468
+    summand: 591
+  - position: 469
+    summand: 650
+  - position: 470
+    summand: 89
+  - position: 471
+    summand: 919
+  - position: 472
+    summand: 89
+  - position: 473
+    summand: 245
+  - position: 474
+    summand: 271
+  - position: 475
+    summand: 161
+  - position: 476
+    summand: 605
+  - position: 477
+    summand: 879
+  - position: 478
+    summand: 230
+  - position: 479
+    summand: 670
+  - position: 480
+    summand: 410
+  - position: 481
+    summand: 324
+  - position: 482
+    summand: 464
+  - position: 483
+    summand: 879
+  - position: 484
+    summand: 203
+  - position: 485
+    summand: 911
+  - position: 486
+    summand: 974
+  - position: 487
+    summand: 344
+  - position: 488
+    summand: 778
+  - position: 489
+    summand: 183
+  - position: 490
+    summand: 367
+  - position: 491
+    summand: 342
+  - position: 492
+    summand: 132
+  - position: 493
+    summand: 531
+  - position: 494
+    summand: 904
+  - position: 495
+    summand: 195
+  - position: 496
+    summand: 399
+  - position: 497
+    summand: 475
+  - position: 498
+    summand: 450
+  - position: 499
+    summand: 537
+  - position: 500
+    summand: 916
+  - position: 501
+    summand: 671
+  - position: 502
+    summand: 434
+  - position: 503
+    summand: 870
+  - position: 504
+    summand: 237
+  - position: 505
+    summand: 473
+  - position: 506
+    summand: 432
+  - position: 507
+    summand: 662
+  - position: 508
+    summand: 379
+  - position: 509
+    summand: 609
+  - position: 510
+    summand: 175
+  - position: 511
+    summand: 514
+  - position: 512
+    summand: 888
+  - position: 513
+    summand: 412
+  - position: 514
+    summand: 181
+  - position: 515
+    summand: 431
+  - position: 516
+    summand: 959
+  - position: 517
+    summand: 611
+  - position: 518
+    summand: 213
+  - position: 519
+    summand: 567
+  - position: 520
+    summand: 745
+  - position: 521
+    summand: 85
+  - position: 522
+    summand: 55
+  - position: 523
+    summand: 892
+  - position: 524
+    summand: 884
+  - position: 525
+    summand: 393
+  - position: 526
+    summand: 446
+  - position: 527
+    summand: 70
+  - position: 528
+    summand: 896
+  - position: 529
+    summand: 515
+  - position: 530
+    summand: 435
+  - position: 531
+    summand: 677
+  - position: 532
+    summand: 191
+  - position: 533
+    summand: 296
+  - position: 534
+    summand: 990
+  - position: 535
+    summand: 432
+  - position: 536
+    summand: 364
+  - position: 537
+    summand: 809
+  - position: 538
+    summand: 420
+  - position: 539
+    summand: 70
+  - position: 540
+    summand: 404
+  - position: 541
+    summand: 38
+  - position: 542
+    summand: 570
+  - position: 543
+    summand: 191
+  - position: 544
+    summand: 641
+  - position: 545
+    summand: 19
+  - position: 546
+    summand: 108
+  - position: 547
+    summand: 891
+  - position: 548
+    summand: 606
+  - position: 549
+    summand: 725
+  - position: 550
+    summand: 514
+  - position: 551
+    summand: 630
+  - position: 552
+    summand: 309
+  - position: 553
+    summand: 395
+  - position: 554
+    summand: 635
+  - position: 555
+    summand: 109
+  - position: 556
+    summand: 665
+  - position: 557
+    summand: 160
+  - position: 558
+    summand: 904
+  - position: 559
+    summand: 995
+  - position: 560
+    summand: 941
+  - position: 561
+    summand: 79
+  - position: 562
+    summand: 244
+  - position: 563
+    summand: 132
+  - position: 564
+    summand: 335
+  - position: 565
+    summand: 846
+  - position: 566
+    summand: 166
+  - position: 567
+    summand: 172
+  - position: 568
+    summand: 577
+  - position: 569
+    summand: 469
+  - position: 570
+    summand: 30
+  - position: 571
+    summand: 109
+  - position: 572
+    summand: 313
+  - position: 573
+    summand: 990
+  - position: 574
+    summand: 879
+  - position: 575
+    summand: 482
+  - position: 576
+    summand: 292
+  - position: 577
+    summand: 872
+  - position: 578
+    summand: 347
+  - position: 579
+    summand: 882
+  - position: 580
+    summand: 192
+  - position: 581
+    summand: 30
+  - position: 582
+    summand: 491
+  - position: 583
+    summand: 208
+  - position: 584
+    summand: 661
+  - position: 585
+    summand: 300
+  - position: 586
+    summand: 253
+  - position: 587
+    summand: 532
+  - position: 588
+    summand: 310
+  - position: 589
+    summand: 562
+  - position: 590
+    summand: 251
+  - position: 591
+    summand: 72
+  - position: 592
+    summand: 385
+  - position: 593
+    summand: 450
+  - position: 594
+    summand: 516
+  - position: 595
+    summand: 716
+  - position: 596
+    summand: 887
+  - position: 597
+    summand: 652
+  - position: 598
+    summand: 294
+  - position: 599
+    summand: 551
+  - position: 600
+    summand: 209
+  - position: 601
+    summand: 68
+  - position: 602
+    summand: 779
+  - position: 603
+    summand: 308
+  - position: 604
+    summand: 329
+  - position: 605
+    summand: 97
+  - position: 606
+    summand: 623
+  - position: 607
+    summand: 916
+  - position: 608
+    summand: 447
+  - position: 609
+    summand: 194
+  - position: 610
+    summand: 25
+  - position: 611
+    summand: 869
+  - position: 612
+    summand: 33
+  - position: 613
+    summand: 496
+  - position: 614
+    summand: 128
+  - position: 615
+    summand: 999
+  - position: 616
+    summand: 860
+  - position: 617
+    summand: 829
+  - position: 618
+    summand: 367
+  - position: 619
+    summand: 706
+  - position: 620
+    summand: 823
+  - position: 621
+    summand: 416
+  - position: 622
+    summand: 200
+  - position: 623
+    summand: 584
+  - position: 624
+    summand: 916
+  - position: 625
+    summand: 865
+  - position: 626
+    summand: 287
+  - position: 627
+    summand: 46
+  - position: 628
+    summand: 468
+  - position: 629
+    summand: 584
+  - position: 630
+    summand: 103
+  - position: 631
+    summand: 706
+  - position: 632
+    summand: 436
+  - position: 633
+    summand: 165
+  - position: 634
+    summand: 395
+  - position: 635
+    summand: 848
+  - position: 636
+    summand: 193
+  - position: 637
+    summand: 482
+  - position: 638
+    summand: 234
+  - position: 639
+    summand: 864
+  - position: 640
+    summand: 752
+  - position: 641
+    summand: 684
+  - position: 642
+    summand: 231
+  - position: 643
+    summand: 303
+  - position: 644
+    summand: 457
+  - position: 645
+    summand: 626
+  - position: 646
+    summand: 82
+  - position: 647
+    summand: 355
+  - position: 648
+    summand: 40
+  - position: 649
+    summand: 783
+  - position: 650
+    summand: 128
+  - position: 651
+    summand: 532
+  - position: 652
+    summand: 518
+  - position: 653
+    summand: 81
+  - position: 654
+    summand: 530
+  - position: 655
+    summand: 545
+  - position: 656
+    summand: 403
+  - position: 657
+    summand: 587
+  - position: 658
+    summand: 853
+  - position: 659
+    summand: 884
+  - position: 660
+    summand: 31
+  - position: 661
+    summand: 641
+  - position: 662
+    summand: 924
+  - position: 663
+    summand: 283
+  - position: 664
+    summand: 235
+  - position: 665
+    summand: 20
+  - position: 666
+    summand: 568
+  - position: 667
+    summand: 946
+  - position: 668
+    summand: 295
+  - position: 669
+    summand: 2
+  - position: 670
+    summand: 472
+  - position: 671
+    summand: 463
+  - position: 672
+    summand: 28
+  - position: 673
+    summand: 510
+  - position: 674
+    summand: 625
+  - position: 675
+    summand: 743
+  - position: 676
+    summand: 326
+  - position: 677
+    summand: 636
+  - position: 678
+    summand: 177
+  - position: 679
+    summand: 54
+  - position: 680
+    summand: 307
+  - position: 681
+    summand: 409
+  - position: 682
+    summand: 330
+  - position: 683
+    summand: 648
+  - position: 684
+    summand: 138
+  - position: 685
+    summand: 439
+  - position: 686
+    summand: 452
+  - position: 687
+    summand: 892
+  - position: 688
+    summand: 302
+  - position: 689
+    summand: 59
+  - position: 690
+    summand: 201
+  - position: 691
+    summand: 318
+  - position: 692
+    summand: 477
+  - position: 693
+    summand: 142
+  - position: 694
+    summand: 850
+  - position: 695
+    summand: 836
+  - position: 696
+    summand: 819
+  - position: 697
+    summand: 713
+  - position: 698
+    summand: 857
+  - position: 699
+    summand: 925
+  - position: 700
+    summand: 622
+  - position: 701
+    summand: 909
+  - position: 702
+    summand: 911
+  - position: 703
+    summand: 138
+  - position: 704
+    summand: 63
+  - position: 705
+    summand: 981
+  - position: 706
+    summand: 305
+  - position: 707
+    summand: 425
+  - position: 708
+    summand: 92
+  - position: 709
+    summand: 913
+  - position: 710
+    summand: 332
+  - position: 711
+    summand: 574
+  - position: 712
+    summand: 404
+  - position: 713
+    summand: 104
+  - position: 714
+    summand: 795
+  - position: 715
+    summand: 547
+  - position: 716
+    summand: 387
+  - position: 717
+    summand: 483
+  - position: 718
+    summand: 590
+  - position: 719
+    summand: 681
+  - position: 720
+    summand: 403
+  - position: 721
+    summand: 489
+  - position: 722
+    summand: 387
+  - position: 723
+    summand: 249
+  - position: 724
+    summand: 746
+  - position: 725
+    summand: 426
+  - position: 726
+    summand: 422
+  - position: 727
+    summand: 435
+  - position: 728
+    summand: 29
+  - position: 729
+    summand: 935
+  - position: 730
+    summand: 607
+  - position: 731
+    summand: 70
+  - position: 732
+    summand: 15
+  - position: 733
+    summand: 640
+  - position: 734
+    summand: 744
+  - position: 735
+    summand: 432
+  - position: 736
+    summand: 599
+  - position: 737
+    summand: 16
+  - position: 738
+    summand: 662
+  - position: 739
+    summand: 296
+  - position: 740
+    summand: 79
+  - position: 741
+    summand: 275
+  - position: 742
+    summand: 233
+  - position: 743
+    summand: 145
+  - position: 744
+    summand: 65
+  - position: 745
+    summand: 119
+  - position: 746
+    summand: 124
+  - position: 747
+    summand: 212
+  - position: 748
+    summand: 205
+  - position: 749
+    summand: 148
+  - position: 750
+    summand: 285
+  - position: 751
+    summand: 305
+  - position: 752
+    summand: 169
+  - position: 753
+    summand: 593
+  - position: 754
+    summand: 795
+  - position: 755
+    summand: 118
+  - position: 756
+    summand: 984
+  - position: 757
+    summand: 577
+  - position: 758
+    summand: 814
+  - position: 759
+    summand: 615
+  - position: 760
+    summand: 188
+  - position: 761
+    summand: 700
+  - position: 762
+    summand: 921
+  - position: 763
+    summand: 379
+  - position: 764
+    summand: 377
+  - position: 765
+    summand: 863
+  - position: 766
+    summand: 344
+  - position: 767
+    summand: 564
+  - position: 768
+    summand: 297
+  - position: 769
+    summand: 580
+  - position: 770
+    summand: 816
+  - position: 771
+    summand: 251
+  - position: 772
+    summand: 705
+  - position: 773
+    summand: 322
+  - position: 774
+    summand: 498
+  - position: 775
+    summand: 441
+  - position: 776
+    summand: 65
+  - position: 777
+    summand: 911
+  - position: 778
+    summand: 22
+  - position: 779
+    summand: 242
+  - position: 780
+    summand: 331
+  - position: 781
+    summand: 7
+  - position: 782
+    summand: 132
+  - position: 783
+    summand: 548
+  - position: 784
+    summand: 980
+  - position: 785
+    summand: 251
+  - position: 786
+    summand: 838
+  - position: 787
+    summand: 72
+  - position: 788
+    summand: 371
+  - position: 789
+    summand: 321
+  - position: 790
+    summand: 169
+  - position: 791
+    summand: 383
+  - position: 792
+    summand: 266
+  - position: 793
+    summand: 241
+  - position: 794
+    summand: 842
+  - position: 795
+    summand: 282
+  - position: 796
+    summand: 185
+  - position: 797
+    summand: 738
+  - position: 798
+    summand: 330
+  - position: 799
+    summand: 153
+  - position: 800
+    summand: 819
+  - position: 801
+    summand: 25
+  - position: 802
+    summand: 457
+  - position: 803
+    summand: 806
+  - position: 804
+    summand: 98
+  - position: 805
+    summand: 977
+  - position: 806
+    summand: 252
+  - position: 807
+    summand: 609
+  - position: 808
+    summand: 633
+  - position: 809
+    summand: 810
+  - position: 810
+    summand: 815
+  - position: 811
+    summand: 26
+  - position: 812
+    summand: 149
+  - position: 813
+    summand: 561
+  - position: 814
+    summand: 805
+  - position: 815
+    summand: 458
+  - position: 816
+    summand: 972
+  - position: 817
+    summand: 172
+  - position: 818
+    summand: 515
+  - position: 819
+    summand: 536
+  - position: 820
+    summand: 202
+  - position: 821
+    summand: 83
+  - position: 822
+    summand: 171
+  - position: 823
+    summand: 639
+  - position: 824
+    summand: 295
+  - position: 825
+    summand: 837
+  - position: 826
+    summand: 344
+  - position: 827
+    summand: 354
+  - position: 828
+    summand: 621
+  - position: 829
+    summand: 864
+  - position: 830
+    summand: 239
+  - position: 831
+    summand: 134
+  - position: 832
+    summand: 660
+  - position: 833
+    summand: 202
+  - position: 834
+    summand: 49
+  - position: 835
+    summand: 777
+  - position: 836
+    summand: 5
+  - position: 837
+    summand: 918
+  - position: 838
+    summand: 252
+  - position: 839
+    summand: 857
+  - position: 840
+    summand: 796
+  - position: 841
+    summand: 603
+  - position: 842
+    summand: 53
+  - position: 843
+    summand: 747
+  - position: 844
+    summand: 244
+  - position: 845
+    summand: 227
+  - position: 846
+    summand: 565
+  - position: 847
+    summand: 721
+  - position: 848
+    summand: 399
+  - position: 849
+    summand: 422
+  - position: 850
+    summand: 233
+  - position: 851
+    summand: 640
+  - position: 852
+    summand: 279
+  - position: 853
+    summand: 113
+  - position: 854
+    summand: 141
+  - position: 855
+    summand: 620
+  - position: 856
+    summand: 598
+  - position: 857
+    summand: 85
+  - position: 858
+    summand: 128
+  - position: 859
+    summand: 588
+  - position: 860
+    summand: 341
+  - position: 861
+    summand: 720
+  - position: 862
+    summand: 630
+  - position: 863
+    summand: 315
+  - position: 864
+    summand: 816
+  - position: 865
+    summand: 357
+  - position: 866
+    summand: 640
+  - position: 867
+    summand: 463
+  - position: 868
+    summand: 934
+  - position: 869
+    summand: 154
+  - position: 870
+    summand: 161
+  - position: 871
+    summand: 630
+  - position: 872
+    summand: 130
+  - position: 873
+    summand: 953
+  - position: 874
+    summand: 789
+  - position: 875
+    summand: 119
+  - position: 876
+    summand: 353
+  - position: 877
+    summand: 288
+  - position: 878
+    summand: 622
+  - position: 879
+    summand: 876
+  - position: 880
+    summand: 382
+  - position: 881
+    summand: 404
+  - position: 882
+    summand: 837
+  - position: 883
+    summand: 968
+  - position: 884
+    summand: 583
+  - position: 885
+    summand: 910
+  - position: 886
+    summand: 958
+  - position: 887
+    summand: 431
+  - position: 888
+    summand: 355
+  - position: 889
+    summand: 620
+  - position: 890
+    summand: 791
+  - position: 891
+    summand: 757
+  - position: 892
+    summand: 167
+  - position: 893
+    summand: 146
+  - position: 894
+    summand: 403
+  - position: 895
+    summand: 503
+  - position: 896
+    summand: 863
+  - position: 897
+    summand: 994
+  - position: 898
+    summand: 181
+  - position: 899
+    summand: 255
+  - position: 900
+    summand: 484
+  - position: 901
+    summand: 210
+  - position: 902
+    summand: 569
+  - position: 903
+    summand: 675
+  - position: 904
+    summand: 553
+  - position: 905
+    summand: 24
+  - position: 906
+    summand: 870
+  - position: 907
+    summand: 647
+  - position: 908
+    summand: 709
+  - position: 909
+    summand: 230
+  - position: 910
+    summand: 206
+  - position: 911
+    summand: 685
+  - position: 912
+    summand: 493
+  - position: 913
+    summand: 160
+  - position: 914
+    summand: 119
+  - position: 915
+    summand: 414
+  - position: 916
+    summand: 290
+  - position: 917
+    summand: 474
+  - position: 918
+    summand: 759
+  - position: 919
+    summand: 428
+  - position: 920
+    summand: 983
+  - position: 921
+    summand: 727
+  - position: 922
+    summand: 644
+  - position: 923
+    summand: 812
+  - position: 924
+    summand: 541
+  - position: 925
+    summand: 448
+  - position: 926
+    summand: 441
+  - position: 927
+    summand: 845
+  - position: 928
+    summand: 920
+  - position: 929
+    summand: 807
+  - position: 930
+    summand: 181
+  - position: 931
+    summand: 320
+  - position: 932
+    summand: 208
+  - position: 933
+    summand: 783
+  - position: 934
+    summand: 95
+  - position: 935
+    summand: 816
+  - position: 936
+    summand: 152
+  - position: 937
+    summand: 151
+  - position: 938
+    summand: 905
+  - position: 939
+    summand: 895
+  - position: 940
+    summand: 415
+  - position: 941
+    summand: 635
+  - position: 942
+    summand: 953
+  - position: 943
+    summand: 633
+  - position: 944
+    summand: 813
+  - position: 945
+    summand: 9
+  - position: 946
+    summand: 142
+  - position: 947
+    summand: 278
+  - position: 948
+    summand: 135
+  - position: 949
+    summand: 982
+  - position: 950
+    summand: 6
+  - position: 951
+    summand: 337
+  - position: 952
+    summand: 259
+  - position: 953
+    summand: 104
+  - position: 954
+    summand: 169
+  - position: 955
+    summand: 982
+  - position: 956
+    summand: 545
+  - position: 957
+    summand: 721
+  - position: 958
+    summand: 838
+  - position: 959
+    summand: 833
+  - position: 960
+    summand: 736
+  - position: 961
+    summand: 982
+  - position: 962
+    summand: 159
+  - position: 963
+    summand: 727
+  - position: 964
+    summand: 3
+  - position: 965
+    summand: 275
+  - position: 966
+    summand: 972
+  - position: 967
+    summand: 186
+  - position: 968
+    summand: 283
+  - position: 969
+    summand: 995
+  - position: 970
+    summand: 716
+  - position: 971
+    summand: 382
+  - position: 972
+    summand: 661
+  - position: 973
+    summand: 85
+  - position: 974
+    summand: 7
+  - position: 975
+    summand: 67
+  - position: 976
+    summand: 679
+  - position: 977
+    summand: 181
+  - position: 978
+    summand: 643
+  - position: 979
+    summand: 353
+  - position: 980
+    summand: 958
+  - position: 981
+    summand: 653
+  - position: 982
+    summand: 761
+  - position: 983
+    summand: 873
+  - position: 984
+    summand: 354
+  - position: 985
+    summand: 553
+  - position: 986
+    summand: 314
+  - position: 987
+    summand: 33
+  - position: 988
+    summand: 79
+  - position: 989
+    summand: 878
+  - position: 990
+    summand: 93
+  - position: 991
+    summand: 911
+  - position: 992
+    summand: 652
+  - position: 993
+    summand: 489
+  - position: 994
+    summand: 37
+  - position: 995
+    summand: 737
+  - position: 996
+    summand: 749
+  - position: 997
+    summand: 915
+  - position: 998
+    summand: 251
+  - position: 999
+    summand: 468

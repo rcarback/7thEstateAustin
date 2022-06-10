@@ -1,0 +1,13 @@
+---
+poll_identifier: "7th Estate Austin"
+poll_trustees:
+ - identifier: "rick@xx.network"
+ - identifier: "paul@xx.network"
+ - identifier: "nealmcb@gmail.com"
+num_ballots: 1000
+num_decoys: 100
+question: "If it's not private, is it really Web3?"
+option1: "Yes"
+option2: "No"
+start_date: "2022-06-08"
+end_date: "2022-06-10"
